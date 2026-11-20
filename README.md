@@ -6,7 +6,7 @@ We classify IMDB movie reviews as *negative* or *positive* with pretrained word 
 - **2 encoders:** embed and pool, and an LSTM
 - **Evaluation:** 5-fold cross-validation on the same folds as project 1
 
-Results: embed and pool reaches **85.7%**, the LSTM **90.0%** (project 1's bpe-logcounts-mlp: 88.2%).
+Results: embed and pool reaches **85.7%**, the LSTM **89.2%** (project 1's bpe-logcounts-mlp: 88.2%).
 
 ## Contents
 
